@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edpenano
 - 👀 I’m interested in running and basketball
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on DLT apps
+- 💞️ I’m looking to collaborate on developing blockchain/DLT applications using Apple iOS
 
 <!---
 edpenano/edpenano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
